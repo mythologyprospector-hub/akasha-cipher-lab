@@ -57,3 +57,11 @@ archetypes:
   - optimization
   - signal
 
+
+# ---- Canonical sections added by akasha-canon ----
+type: organ
+
+family: discovery
+
+role: cipher-lab
+
